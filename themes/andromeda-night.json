@@ -2,33 +2,6 @@
   "name": "Andromeda Night",
   "author": "ni3rav",
   "type": "dark",
-  "semanticTokenColors": {
-    "parameter.declaration": {
-      "foreground": "#e0af68"
-    },
-    "parameter": {
-      "foreground": "#d9d4cd"
-    },
-    "property.declaration": {
-      "foreground": "#73daca"
-    },
-    "property.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "*.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "variable.declaration": {
-      "foreground": "#bb9af7"
-    },
-    "variable": {
-      "foreground": "#c0caf5"
-    }
-  },
-  "semanticClass": "tokyo-night",
   "colors": {
     "foreground": "#787c99",
     "descriptionForeground": "#515670",
@@ -165,7 +138,7 @@
     "editorOverviewRuler.wordHighlightStrongForeground": "#bb9af766",
     "editorOverviewRuler.modifiedForeground": "#394b70",
     "editorOverviewRuler.addedForeground": "#164846",
-    "editorOverviewRuler.deletedForeground": "#703438",
+    "editorOverviewRuler.deletedForeground -Foreground": "#703438",
     "editorRuler.foreground": "#101014",
     "editorError.foreground": "#db4b4b",
     "editorWarning.foreground": "#e0af68",
@@ -277,7 +250,7 @@
     "debugConsole.warningForeground": "#c49a5a",
     "debugConsoleInputIcon.foreground": "#73daca",
     "editor.stackFrameHighlightBackground": "#E2BD3A20",
-    "editor.focusedStackFrameHighlightBackground": "#73daca20Gutter20",
+    "editor.focusedStackFrameHighlightBackground": "#73daca20",
     "debugView.stateLabelForeground": "#787c99",
     "debugView.stateLabelBackground": "#14141b",
     "debugView.valueChangedHighlight": "#3d59a1aa",

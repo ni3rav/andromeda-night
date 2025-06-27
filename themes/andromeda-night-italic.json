@@ -1,33 +1,6 @@
 {
   "name": "Andromeda Night Italic",
-  "author": "ni3rav",
   "type": "dark",
-  "semanticTokenColors": {
-    "parameter.declaration": {
-      "foreground": "#e0af68"
-    },
-    "parameter": {
-      "foreground": "#d9d4cd"
-    },
-    "property.declaration": {
-      "foreground": "#73daca"
-    },
-    "property.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "*.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "variable.declaration": {
-      "foreground": "#bb9af7"
-    },
-    "variable": {
-      "foreground": "#c0caf5"
-    }
-  },
   "colors": {
     "foreground": "#787c99",
     "descriptionForeground": "#515670",
@@ -69,7 +42,7 @@
     "inputValidation.warningBorder": "#e0af68",
     "inputValidation.errorForeground": "#bbc2e0",
     "inputValidation.errorBackground": "#85353e",
-    "inputValidation.errorBorder": "#85353e",
+    "inputValidation.errorBorder": "#963c47",
     "dropdown.foreground": "#787c99",
     "dropdown.background": "#14141b",
     "dropdown.listBackground": "#14141b",
@@ -261,6 +234,7 @@
     "titleBar.inactiveBackground": "#16161e",
     "titleBar.border": "#101014",
     "walkThrough.embeddedEditorBackground": "#16161e",
+    "textLink.foreground": "#6183bb",
     "textLink.activeForeground": "#7dcfff",
     "textPreformat.foreground": "#9699a8",
     "textBlockQuote.background": "#16161e",
