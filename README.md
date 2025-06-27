@@ -20,8 +20,8 @@ A VS Code theme that fuses the vibrant syntax highlighting of Andromeda with the
 
 ## Credits
 
-- (Andromeda)[https://github.com/EliverLara/Andromeda]
-- (Tokyo Night)[https://github.com/tokyo-night/tokyo-night-vscode-theme]
+- [Andromeda](https://github.com/EliverLara/Andromeda)
+- [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme)
 
 ## License
 
