@@ -2,7 +2,7 @@
   "name": "andromeda-night",
   "displayName": "Andromeda Night",
   "description": "A VS Code theme inspired by Andromeda and Tokyo Night.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "ni3rav",
   "license": "MIT",
   "author": {
@@ -23,7 +23,7 @@
     "color-theme"
   ],
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
@@ -43,6 +43,11 @@
         "label": "Andromeda Night Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/andromeda-night-italic.json"
+      },
+      {
+        "label": "Andromeda Night Equalizer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/equalizer.json"
       }
     ]
   },

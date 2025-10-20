@@ -10,13 +10,21 @@ A VS Code theme that fuses the vibrant syntax highlighting of Andromeda with the
 
 </div>
 
+## Variants
+
+This theme comes in three variants:
+
+- **Andromeda Night** - The classic variant featuring vibrant Andromeda syntax with Tokyo Night's elegant palette
+- **Andromeda Night Italic** - Same as the classic variant with italic font styling for enhanced readability
+- **Andromeda Night Equalizer** - A stealth variant with monochrome colors over Tokyo Night's base for a minimal, distraction-free coding experience
+
 ## Installation
 
 1. Open the extensions sidebar in Visual Studio Code
 2. Search for **Andromeda Night**
 3. Click **Install**
 4. Reload your editor
-5. Preferences > Color Theme > **Andromeda Night**
+5. Preferences > Color Theme > **Andromeda Night** (or choose your preferred variant)
 
 ## Credits
 
