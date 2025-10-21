@@ -12,11 +12,12 @@ A VS Code theme that fuses the vibrant syntax highlighting of Andromeda with the
 
 ## Variants
 
-This theme comes in three variants:
+This theme comes in four variants:
 
 - **Andromeda Night** - The classic variant featuring vibrant Andromeda syntax with Tokyo Night's elegant palette
 - **Andromeda Night Italic** - Same as the classic variant with italic font styling for enhanced readability
 - **Andromeda Night Equalizer** - A stealth variant with monochrome colors over Tokyo Night's base for a minimal, distraction-free coding experience
+- **Andromeda Night Dusk** - A warm, dusk-inspired variant with softened sunset tones for a calmer, evening-friendly coding experience
 
 ## Installation
 
