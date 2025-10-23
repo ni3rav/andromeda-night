@@ -2,7 +2,7 @@
   "name": "andromeda-night",
   "displayName": "Andromeda Night",
   "description": "A VS Code theme inspired by Andromeda and Tokyo Night.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "ni3rav",
   "license": "MIT",
   "author": {
@@ -23,7 +23,7 @@
     "color-theme"
   ],
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.40.0"
   },
   "categories": [
     "Themes"
@@ -53,6 +53,11 @@
         "label": "Andromeda Night Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/dusk.json"
+      },
+      {
+        "label": "Andromeda Night Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/operator.json"
       }
     ]
   },
